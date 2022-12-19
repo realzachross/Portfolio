@@ -35,7 +35,7 @@ const Sidebar = () => (
         </a>
       </li>
     </ul>
-  </div>
+  </div >
 )
 
 export default Sidebar
