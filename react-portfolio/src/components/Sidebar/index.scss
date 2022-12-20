@@ -75,6 +75,7 @@
         }
       }
     }
+
     a.about-link {
       &:after {
         content: 'ABOUT'
@@ -108,11 +109,11 @@
       a {
         padding: 7px 0;
         display: block;
-        font-size: 15px;
+        font-size: 22px;
         line-height: 16px;
 
         &:hover svg {
-          color: #ffd700; 
+          color: #ffd700;
         }
       }
     }
